@@ -9,7 +9,7 @@ if (!isset($_SESSION["ssLogin"])) {
 
 require_once "config.php";
 
-$title = "Dashboard - MAN Demak";
+$title = "Dashboard - WEB SEKOLAH";
 require_once "template/header.php";
 require_once "template/navbar.php";
 require_once "template/sidebar.php";
